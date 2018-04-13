@@ -66,7 +66,7 @@ The return value indicates whether the documenation mandated 3 minutes of warm-u
 
 ## MH-Z16 Datasheet
 
-http://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z16%20CO2%20V2.1.pdf
+<http://www.winsen-sensor.com/d/files/PDF/Infrared%20Gas%20Sensor/NDIR%20CO2%20SENSOR/MH-Z16%20CO2%20V2.1.pdf>
 
 ## Change log
 

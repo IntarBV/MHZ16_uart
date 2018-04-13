@@ -1,6 +1,6 @@
 # MHZ16_uart
 
-Arduino IDE library for the MH-Z16 CO2 tested with ESP32 (but might just work for Arduino too)
+Arduino IDE library for the MH-Z16 CO₂ sensor. Tested with ESP32 but might just work for Arduino too.
 
 Version 0.1
 

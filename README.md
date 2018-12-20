@@ -8,7 +8,7 @@ Version 0.1
 
 By: Intar BV  
 
-Based on: https://github.com/nara256/MH-Z16_uart  
+Based on: https://github.com/nara256/mhz19_uart
 
 License: MIT
 

@@ -18,10 +18,10 @@ License: MIT
 1. Include the library in your program
 1. Connect your MH-Z16 sensor to your ESP32
 
-    MH-Z16 Vcc to 5V power supply
+    MH-Z16 Vcc to 5V power supply  
     MH-Z16 GND  to common GND  
-    MH-Z16 Tx   to ESP32 GPIO pin to use as _Rx_
-    MH-Z16 Rx   to ESP32 GPIO pin to use as _Tx_
+    MH-Z16 Tx   to ESP32 GPIO pin to use as _Rx_  
+    MH-Z16 Rx   to ESP32 GPIO pin to use as _Tx_  
     Other MH-Z16 pins are not supported
 1. Upload your program to the ESP32
 
